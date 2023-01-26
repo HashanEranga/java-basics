@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Generics/Excersize/Excersize.iml" filepath="$PROJECT_DIR$/Generics/Excersize/Excersize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/GenericClasses/GenericClasses.iml" filepath="$PROJECT_DIR$/Generics/GenericClasses/GenericClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/GenericMethods/GenericMethods.iml" filepath="$PROJECT_DIR$/Generics/GenericMethods/GenericMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Basics.iml" filepath="$PROJECT_DIR$/Java-Basics.iml" />
     </modules>
   </component>
