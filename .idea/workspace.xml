@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73e334b4-80b5-4a29-bd01-0520dd96a457" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/Excersize/Excersize.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/Excersize/src/Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/Excersize/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/GenericClasses/GenericClasses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/GenericClasses/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/GenericClasses/src/Generics/src/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/GenericMethods/GenericMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/GenericMethods/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/Generics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="73e334b4-80b5-4a29-bd01-0520dd96a457" name="Changes" comment="update generics">
+      <change afterPath="$PROJECT_DIR$/src/com/hashan/javacore/oop/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hashan/javacore/oop/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hashan/javacore/oop/oop/jframes/Sample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,23 +33,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "corretto-1.8",
-    "last_directory_selection": "D:/Academic/Java/Java-Basics/Generics/GenericClasses/src",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-1.8&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/Academic/Java/Java-Basics/Generics/GenericClasses/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Academic/DataStructures and Algorithms/data_structures_and_algorithms&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Academic\Java\Java-Basics\Generics\GenericClasses\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.hashan.javacore.oop.oop.jframes.Sample">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="Excersize" />
@@ -65,8 +58,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hashan.javacore.oop.Sample" />
+      <module name="Java-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hashan.javacore.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.hashan.javacore.oop.oop.jframes.Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hashan.javacore.oop.oop.jframes.Sample" />
+      <module name="Java-Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hashan.javacore.oop.oop.jframes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.hashan.javacore.oop.oop.jframes.Sample" />
+        <item itemvalue="Application.Sample" />
         <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
@@ -79,7 +100,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674703481527</updated>
-      <workItem from="1674703483490" duration="4686000" />
+      <workItem from="1674703483490" duration="5100000" />
+      <workItem from="1676244071000" duration="61000" />
+      <workItem from="1677250162184" duration="2602000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1674703541209</created>
@@ -88,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674703541209</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update generics">
+      <created>1674710980491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674710980491</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="update generics" />
+    <option name="LAST_COMMIT_MESSAGE" value="update generics" />
   </component>
 </project>
